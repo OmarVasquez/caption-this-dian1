@@ -4,6 +4,7 @@
 - Facilitator: @TEACHER-HANDLE
 
 -pruebas - Heidi
+-pruebas Heidi
 
 ## Class Resources
 
