@@ -62,6 +62,7 @@ CAMBIO PARTE2 LABORATORIO
 #JFA
 # GitHub for Developers
 
+- Student: @Jonathan López Rv3
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
@@ -157,6 +158,11 @@ Prueba cambio nuevo
 ### Modificación desde VSCode, verificar PUSH
 
 
+alexandra corredor estuvo aqui
+
+Mico 
+Esto es una prueba jonathanlr87
+
 
 Modificacion adicional al archivo
 
@@ -179,4 +185,5 @@ alexandra corredor estuvo aqui
 Esto es una prueba jonathanlr87
 
 esto es un cambio de version
+
 
