@@ -72,7 +72,7 @@ GTM
 
 - Class Date: THIS-DATE
 - Facilitator01: @teacher
-
+--------------------------
 - Class Date: THIS-DATE
 - Facilitator: @omarvasquezv2-v3
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
