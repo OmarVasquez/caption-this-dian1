@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: @ovasquez
-- Facilitator: @dianuser
+- Facilitator: @dianuser jlopezr2_web
 
 ## Class Resources
 
