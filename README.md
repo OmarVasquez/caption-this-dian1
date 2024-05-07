@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
-- Student: @Jonathan López
+- Student: @Jonathan López Rv3
 
 ## Class Resources
 
