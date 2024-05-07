@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este earchivo de pruebas 
+=======
+Archivo para prueba conflicto v1-v2
+>>>>>>> dev
