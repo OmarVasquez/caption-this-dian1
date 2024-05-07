@@ -21,8 +21,14 @@ GTM
 - Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
+- Facilitator: @avargasd
 
 - Facilitator:@JORGE SALAZAR
+#cAPACITACION github - 07MAY2024
+
+
+CAMBIO LARCINIEGASR 
+CAMBIO PARTE2 LABORATORIO
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -44,8 +50,16 @@ GTM
 - Facilitator:@JORGE SALAZAR
 
 
-## CSEGURA mod 1
+- Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
+
+
+## Class Resources
+
+# CSEGURA mod 1
 ## Class Resourceskk
+#JFA
+# GitHub for Developers
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -153,4 +167,8 @@ jcollanterV2
 
 Prueba cambio nuevo
 ### Modificación desde VSCode, verificar PUSH
+
+
+
+Modificacion adicional al archivo
 
