@@ -1,6 +1,25 @@
-# GitHub for Developers
+# GitHub for Developers  
+
+GTM
 
 - Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local
+- Facilitator: @jbalcerol
+
+
+## Class Resourceskk
 - Facilitator: @TEACHER-HANDLE
 ## CSEGURA mod 1
 ## Class Resources
@@ -58,9 +77,3 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
-
-HOLA GITHUB
-
-test desde code
-
-jcollanter
