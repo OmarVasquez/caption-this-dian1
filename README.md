@@ -1,8 +1,7 @@
-#JFA
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE Version v2
+- Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
 
@@ -59,6 +58,3 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
-
-
-Modificacion adicional al archivo
