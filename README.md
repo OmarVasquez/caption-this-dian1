@@ -2,7 +2,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Facilitator: @TEACHER-HANDLE Version v2
 
 ## Class Resources
 
