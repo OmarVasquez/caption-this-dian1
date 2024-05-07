@@ -49,6 +49,10 @@ CAMBIO LARCINIEGASR
 
 CAMBIO APROBRADO S2.v3
 
+
+## CSEGURA mod 1
+## Class Resourceskk
+
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
@@ -72,6 +76,7 @@ CAMBIO APROBRADO S2.v3
 - Facilitator: @TEACHER-HANDLE
 ## CSEGURA mod 1
 ## Class Resources
+
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -134,7 +139,25 @@ jcollanter
 
 GustavoActualizacion
 
+- [Modificación 2024/07/05]
+
+Modificar archivo cambios 2024-05-07
 ###jcortesl
 
 
-Cambio por Visual Studio
+Esto es una prueba ovasquez
+
+#### Auxilio no modifiquen más
+
+Esto es una prueba ovasquez
+
+HOLA GITHUB
+
+
+jcollanter
+
+jcollanterV2
+
+Prueba cambio nuevo
+### Modificación desde VSCode, verificar PUSH
+
