@@ -1,7 +1,4 @@
-# GitHub for Developers  
-NO MAS CAMBIOS
-GTM
-4
+# GitHub for Developers
 
 - Class Date: THIS-DATE
 - Facilitator01: @teacher
@@ -31,11 +28,14 @@ CAMBIO LARCINIEGASR
 CAMBIO PARTE2 LABORATORIO
 
 - Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
+
+-pruebas - Heidi
+-pruebas Heidi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes jjjj 
-- Facilitator01: @prozoc afa arriba jcortes larciniegasr
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
@@ -48,6 +48,7 @@ CAMBIO PARTE2 LABORATORIO
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
 - Facilitator:@JORGE SALAZAR
+- Facilitator: @avargasd
 
 
 - Class Date: THIS-DATE
@@ -69,24 +70,13 @@ CAMBIO PARTE2 LABORATORIO
 - Facilitator01: @prozoc afa arriba jcortes larciniegasr
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
-- Facilitator01: @prozoc , @jcollanter
-- Class Date: THIS-DATEjjjjj
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
-- Facilitator: @Sustancial
-- Facilitator: @TEACHER-HANDLE mod 1
-- Facilitator: @HeidiSanchez
-- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
-- Facilitator: @jbalcerol
-
-- Facilitator:@JORGE SALAZAR
-- Facilitator:@eggp73
-
 - Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
 
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
@@ -171,4 +161,24 @@ Prueba cambio nuevo
 
 
 Modificacion adicional al archivo
+
+
+
+
+Esto es una prueba ovasquez
+
+
+
+
+Capacitacion DIAN
+
+Modificado por pedro rozo
+
+esto es un cambio de versionev
+alexandra corredor estuvo aqui
+
+
+Esto es una prueba jonathanlr87
+
+esto es un cambio de version
 
