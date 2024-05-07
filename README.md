@@ -1,7 +1,4 @@
-# GitHub for Developers  
-NO MAS CAMBIOS
-GTM
-4
+# GitHub for Developers
 
 - Class Date: THIS-DATE
 - Facilitator01: @teacher
@@ -21,15 +18,24 @@ GTM
 - Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
+- Facilitator: @avargasd
 
 - Facilitator:@JORGE SALAZAR
+#cAPACITACION github - 07MAY2024
+
+
+CAMBIO LARCINIEGASR 
+CAMBIO PARTE2 LABORATORIO
 
 - Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
+
+-pruebas - Heidi
+-pruebas Heidi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes jjjj 
-- Facilitator01: @prozoc afa arriba jcortes larciniegasr
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
@@ -42,6 +48,19 @@ GTM
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
 - Facilitator:@JORGE SALAZAR
+- Facilitator: @avargasd
+
+
+- Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
+
+
+## Class Resources
+
+# CSEGURA mod 1
+## Class Resourceskk
+#JFA
+# GitHub for Developers
 
 - Student: @Jonathan López Rv3
 - Class Date: THIS-DATE
@@ -52,23 +71,13 @@ GTM
 - Facilitator01: @prozoc afa arriba jcortes larciniegasr
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
-- Facilitator01: @prozoc , @jcollanter
-- Class Date: THIS-DATEjjjjj
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
-- Facilitator: @Sustancial
-- Facilitator: @TEACHER-HANDLE mod 1
-- Facilitator: @HeidiSanchez
-- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
-- Facilitator: @jbalcerol
-
-- Facilitator:@JORGE SALAZAR
-- Facilitator:@eggp73
-
 - Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
@@ -122,6 +131,8 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
+=======
+
 GustavoActualizacion
 
 - [Modificación 2024/07/05]
@@ -129,10 +140,50 @@ GustavoActualizacion
 Modificar archivo cambios 2024-05-07
 ###jcortesl
 
+
+Esto es una prueba ovasquez
+
+#### Auxilio no modifiquen más
+
+Esto es una prueba ovasquez
+
+HOLA GITHUB
+
+
+jcollanter
+
+jcollanterV2
+
 Prueba cambio nuevo
 ### Modificación desde VSCode, verificar PUSH
+
 
 alexandra corredor estuvo aqui
 
 Mico 
 Esto es una prueba jonathanlr87
+
+
+Modificacion adicional al archivo
+
+
+
+
+Esto es una prueba ovasquez
+
+
+
+
+Capacitacion DIAN
+
+Modificado por pedro rozo
+
+esto es un cambio de versionev
+alexandra corredor estuvo aqui
+
+
+Esto es una prueba jonathanlr87
+
+esto es un cambio de version
+
+
