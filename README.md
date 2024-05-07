@@ -1,3 +1,47 @@
+# GitHub for Developers  
+NO MAS CAMBIOS
+GTM
+4
+
+- Class Date: THIS-DATE
+- Facilitator01: @teacher
+
+- Class Date: THIS-DATE
+- Facilitator: @omarvasquezv2-v3
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @gpinzond
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+- Facilitator:@JORGE SALAZAR
 # GitHub for Developers
 #cAPACITACION github - 07MAY2024
 
@@ -6,6 +50,25 @@ CAMBIO LARCINIEGASR
 CAMBIO APROBRADO S2.v3
 
 - Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+- Facilitator:@eggp73
+
 - Facilitator: @TEACHER-HANDLE
 ## CSEGURA mod 1
 ## Class Resources
@@ -68,3 +131,10 @@ HOLA GITHUB
 
 
 jcollanter
+
+GustavoActualizacion
+
+###jcortesl
+
+
+Cambio por Visual Studio
