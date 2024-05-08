@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: Lehone
-- Cambio readme para git Visual Code
+- Cambio readme para otro caso
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
