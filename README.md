@@ -3,7 +3,7 @@
 - Class Date: THIS-DATE
 - Facilitator: nhurtadop73
 - Cambio readme para otro caso
-- Facilitator: driquep version 3 cambio desde github
+- Facilitator: driquep version 3 cambio desde github - 1
 - Cambio readme para otro caso h
 ## Class Resources
 
