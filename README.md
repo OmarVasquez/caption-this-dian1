@@ -1,11 +1,80 @@
-# GitHub for Developers
+# GitHub for Developers  
+NO MAS CAMBIOS
+GTM
+4
 
 - Class Date: THIS-DATE
+
+- Facilitator01: @teacher
+
+- Class Date: THIS-DATE
+- Facilitator: @omarvasquezv2-v3
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @gpinzond
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+- Facilitator:@JORGE SALAZAR
+
+
+## CSEGURA mod 1
+## Class Resourceskk
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+- Facilitator:@eggp73
+
+- Facilitator: @TEACHER-HANDLE
 - Facilitator: rsangar25
 - Cambio readme para otro caso
 - Cambio realizado por hdfabra
 
 ## Class Resources
+
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -62,4 +131,27 @@ After you have completed this course, you are probably wondering where to go fro
 - [Join the open source community](https://github.com/open-source)
 
 
-### modificado AFA V1
+GustavoActualizacion
+
+- [Modificación 2024/07/05]
+
+Modificar archivo cambios 2024-05-07
+###jcortesl
+
+
+Esto es una prueba ovasquez
+
+#### Auxilio no modifiquen más
+
+Esto es una prueba ovasquez
+
+HOLA GITHUB
+
+
+jcollanter
+
+jcollanterV2
+
+Prueba cambio nuevo
+### Modificación desde VSCode, verificar PUSH
+
