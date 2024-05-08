@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: rsangar25
+- Class Date: 08/05/2024
+- Facilitator: Camilo Cative
 - Cambio readme para otro caso
 ## Class Resources
 
