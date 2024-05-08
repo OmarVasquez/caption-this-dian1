@@ -3,6 +3,7 @@
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
 - Cambio readme para otro caso
+- cambio wilvera
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
