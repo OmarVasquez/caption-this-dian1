@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: ovasquez
+- Facilitator: ovasquez-v2
 - Facilitator: rsangar25
 - Cambio readme para otro caso Armand
 ## Class Resources
