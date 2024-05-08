@@ -72,6 +72,7 @@ GTM
 - Facilitator: rsangar25
 - Cambio readme para otro caso
 - Cambio realizado por hdfabra
+- Mas cambios
 
 ## Class Resources
 
