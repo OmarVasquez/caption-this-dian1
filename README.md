@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: jotoniel
+- Facilitator: jotonielv2
 - Facilitator: lmorenom1
 - Cambio readme para otro caso
 
