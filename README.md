@@ -2,8 +2,8 @@
 
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
-- Cambio readme para otro caso
-- cambio wilvera
+- Cambio readme 
+- cambio wilvera ejercicio 1
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
