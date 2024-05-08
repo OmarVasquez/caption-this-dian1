@@ -7,9 +7,10 @@ Wilson Villamizar
 
 # GitHub for Developers
 
-- Class Date: THIS-DATE
+- Class Date: THIS-DATE wilvera
 - Facilitator: rsangar25
-- Cambio readme para otro caso
+- Cambio readme 
+- cambio wilvera ejercicio 1
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
