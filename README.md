@@ -1,5 +1,5 @@
 # prueba visual studio code betty pino agregar en stage
-
+# punto 10 desde visual studio code
 # GitHub for Developers
 
 - Class Date: THIS-DATE
