@@ -73,6 +73,7 @@ GTM
 - Cambio readme para otro caso
 - Cambio realizado por hdfabra
 - Otro cambio mas
+- Mas cambios
 
 ## Class Resources
 
