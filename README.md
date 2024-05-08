@@ -2,6 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: PedroF
+- nuevamente se agrega facilitador para validar
 - Cambio readme para otro caso
 ## Class Resources
 
