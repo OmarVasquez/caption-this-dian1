@@ -3,6 +3,8 @@
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
 - Cambio readme para otro caso
+- Cambio realizado por hdfabra
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
