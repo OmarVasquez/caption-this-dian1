@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+- Author: Hugo Leonardo Barragán Bohórquez
 - Class Date: THIS-DATE
 - Facilitator: driquep version 3 cambio desde github
 - Cambio readme para otro caso h
