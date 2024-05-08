@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
+- Class Date: THIS-DATE wilvera
 - Facilitator: rsangar25
 - Cambio readme 
 - cambio wilvera ejercicio 1
