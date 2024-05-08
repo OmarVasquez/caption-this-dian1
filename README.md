@@ -2,7 +2,9 @@
 
 - Class Date: THIS-DATE
 - Facilitator: jotoniel
+- Facilitator: lmorenom1
 - Cambio readme para otro caso
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
