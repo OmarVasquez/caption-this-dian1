@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: 08/05/2024
-- Facilitator: Camilo Cative
+- Facilitator: Camilo Cative Riaño
 - Cambio readme para otro caso
 ## Class Resources
 
