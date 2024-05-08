@@ -1,4 +1,5 @@
 # prueba visual studio code betty pino agregar en stage
+# punto 10 cambio via web
 # punto 10 desde visual studio code
 # GitHub for Developers
 
