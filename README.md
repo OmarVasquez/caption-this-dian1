@@ -1,7 +1,8 @@
 # GitHub for Developers 1980
 
 - Class Date: THIS-DATE
-
+- Facilitator: PedroF
+- nuevamente se agrega facilitador para validar
 - Facilitator: rsangar25***********
 - Facilitator: jariasp
 - Cambio readme para otro caso
