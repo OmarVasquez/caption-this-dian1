@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: Lehone
+- Facilitator: Otro señor
 
 ## Class Resources
 
