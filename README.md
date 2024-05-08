@@ -4,6 +4,7 @@ GTM
 4
 
 - Class Date: THIS-DATE
+
 - Facilitator01: @teacher
 
 - Class Date: THIS-DATE
@@ -68,6 +69,9 @@ GTM
 - Facilitator:@eggp73
 
 - Facilitator: @TEACHER-HANDLE
+- Facilitator: rsangar25
+- Cambio readme para otro caso
+- Cambio realizado por hdfabra
 
 ## Class Resources
 
@@ -125,6 +129,7 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
+
 
 GustavoActualizacion
 
