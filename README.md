@@ -2,6 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
+- Facilitador: cportelah
 
 ## Class Resources
 
