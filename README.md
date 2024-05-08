@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: Lehone
-- Cambio readme para otro caso
+- Cambio readme para otro caso Armand
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
