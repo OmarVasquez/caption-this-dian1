@@ -1,10 +1,10 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: jotoniel
+- Facilitator: jotonielv3
 - Facilitator: lmorenom1
-- Cambio readme para otro caso
-
+- Cambio readme para otro caso cambio algo
+- Alguna otra cosa
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
