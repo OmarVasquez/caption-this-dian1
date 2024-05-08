@@ -1,6 +1,8 @@
 # GitHub for Developers
 - Author: Hugo Leonardo Barragán Bohórquez
 - Class Date: THIS-DATE
+- Facilitator: nhurtadop73
+- Cambio readme para otro caso
 - Facilitator: driquep version 3 cambio desde github
 - Cambio readme para otro caso h
 ## Class Resources
@@ -61,3 +63,5 @@ After you have completed this course, you are probably wondering where to go fro
 
 
 ### modificado AFA V1
+
+Ajuste local 2
