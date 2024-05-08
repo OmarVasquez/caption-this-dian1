@@ -1,7 +1,7 @@
 # GitHub for Developers 1980
 
 - Class Date: THIS-DATE
-- Facilitator: rsangar25
+- Facilitator: jariasp
 - Cambio readme para otro caso
 ## Class Resources
 
@@ -9,7 +9,7 @@
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
-
+---
 <details>
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
@@ -49,6 +49,10 @@
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
+---
+_by Kklo_
+---
+
 </details>
 
 ### What's Next?
@@ -61,6 +65,3 @@ After you have completed this course, you are probably wondering where to go fro
 
 
 ### modificado AFA V1
----
-_by Kklo_
----
