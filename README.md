@@ -1,9 +1,20 @@
 # GitHub for Developers 1980
 
 - Class Date: THIS-DATE
+- Facilitator: PedroF
+- nuevamente se agrega facilitador para validar
+- Facilitator: rsangar25******************+++++
 - Facilitator: jariasp
 - Cambio readme para otro caso
 ## Class Resources
+
+##PRUEBA CAMBIO WILLIAM RAMÍREZ
+
+##PRUEBA CAMBIO WILLIAM RAMÍREZ_2
+
+##PRUEBA CAMBIO WILLIAM RAMÍREZ_3
+
+##PRUEBA CAMBIO WILLIAM RAMÍREZ_4
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
