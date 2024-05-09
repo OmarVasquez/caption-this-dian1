@@ -4,7 +4,7 @@
 - Class Date: 08/05/2024
 - Facilitator: Camilo Cative Riaño
 - Class Date: THIS-DATE
-
+- Facilitador: lortiz
 - Cambio readme para otro caso
 ## Class Resources
 
